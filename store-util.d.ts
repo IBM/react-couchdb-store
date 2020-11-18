@@ -1,1 +1,1 @@
-declare module 'storeUtil';
+declare module "storeUtil";
