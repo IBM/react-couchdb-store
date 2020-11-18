@@ -1,0 +1,18 @@
+{
+  "name": "react-couchdb-store",
+  "version": "1.0.0",
+  "description": "PouchDB javascript api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IBM/react-couchdb-store.git"
+  },
+  "author": "Timo Ernst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IBM/react-couchdb-store/issues"
+  }
+}
