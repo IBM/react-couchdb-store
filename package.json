@@ -10,9 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/IBM/react-couchdb-store.git"
   },
-  "author": "Timo Ernst",
+  "author": "IBM",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/IBM/react-couchdb-store/issues"
+  },
+  "dependencies": {
+    "pouchdb-browser": "^7.0.0"
   }
 }
