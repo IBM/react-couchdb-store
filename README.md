@@ -3,9 +3,7 @@ PouchDB javascript api used in Rangefeed2 and Admin app
 
 ## Install
 
-Replace [YOUR_GIT_TOKEN] with your token:
-
-`$ npm install git+https://[YOUR_GIT_TOKEN]:x-oauth-basic@github.com/IBM/react-couchdb-store.git --save`
+`$ yarn add https://github.com/IBM/react-couchdb-store.git`
 
 ## Usage
 Create a database schema first. Then, integrate into your app:
