@@ -87,6 +87,15 @@ export default {
 
   /**
    * Reads all data from database and triggers a state change
+   * Simply calls the load method
+   * @param {function} onStateChange Usually this is this.state within a component
+   */
+  loadState(onStateChange) {
+    this.load(onStateChange);
+  },
+
+  /**
+   * Reads all data from database and triggers a state change
    * @param {function} onStateChange Usually this is this.state within a component
    */
   load(onStateChange) {
